@@ -32,11 +32,7 @@ Summarize the findings in a clear and concise report.
 Discuss the implications of the causal analysis on healthcare policy and practice.
 Provide recommendations based on the results.
 
+# Descriptive statistics
 
-                          Age  Comorbidity  Intervention     Outcome
-Mean                52.881000      0.51000      0.502000   72.854195
-Median              52.500000      1.00000      1.000000   73.179897
-Standard Deviation  20.958915      0.50015      0.500246   11.622452
-Minimum             18.000000      0.00000      0.000000   32.933996
-Maximum             89.000000      1.00000      1.000000  109.850075
-Range               71.000000      1.00000      1.000000   76.916079
+<img width="535" alt="Screenshot 2024-08-31 at 8 43 24 PM" src="https://github.com/user-attachments/assets/347fb553-6943-4c98-94dc-168ffea9dc27">
+
